@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Pro192">
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Cart.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Payment.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/service/CheckoutService.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/web/WEB-INF/Views/vnpay_pay.jsp</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/util/VNPayConfig.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/web/WEB-INF/Views/cart.jsp</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/User.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/web/js/address.js</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/dao/CartDao.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/dao/OrderDetailDao.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/ProductVariant.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/controller/CartController.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/controller/CheckoutController.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/dao/DBContext.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/proxy/GHNProxy.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Product.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Status.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Order.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/service/OrderService.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Color.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Brand.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/dao/OrderDao.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/web/WEB-INF/Views/checkout.jsp</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/model/Category.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/proxy/VNPayProxy.java</file>
+            <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/service/CartService.java</file>
+        </group>
+    </open-files>
+</project-private>
