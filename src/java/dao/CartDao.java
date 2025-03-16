@@ -18,7 +18,7 @@ import java.util.List;
  *
  * @author ADMIN
  */
-public class CartDao extends DBContext {
+public class CartDao extends DBBase {
 
     public int checkProductStock(int pid, int variantId) {
         String sql = "SELECT stock FROM ProductVariant WHERE pid = ? AND id = ?";

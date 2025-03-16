@@ -1,10 +1,11 @@
 package proxy;
 
-import util.VNPayConfig;
+import model.VNPayConfig;
 import java.util.*;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
+import model.VNPayConfig;
 
 public class VNPayProxy {
 

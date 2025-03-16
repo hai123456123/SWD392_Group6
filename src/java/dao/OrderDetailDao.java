@@ -11,7 +11,7 @@ import java.util.List;
 import model.Category;
 import model.Product;
 
-public class OrderDetailDao extends DBContext {
+public class OrderDetailDao extends DBBase {
 
     public List<Product> getTopSellingProducts() {
         List<Product> topSellingProducts = new ArrayList<>();
