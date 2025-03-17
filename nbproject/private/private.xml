@@ -30,5 +30,19 @@
             <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/proxy/VNPayProxy.java</file>
             <file>file:/D:/Ky7-Spring2025/1_SWD392/SWD392/src/java/service/CartService.java</file>
         </group>
+        <group>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/model/User.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/dao/AccountDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/proxy/VNPayProxy.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/model/VNPayConfig.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/proxy/GHNProxy.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/service/CartService.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/service/AccountService.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/proxy/GoogleProxy.java</file>
+            <file>file:/C:/Users/DELL/Documents/pullGit/SWD392_Group6/src/java/proxy/SecurityConfig.java</file>
+        </group>
     </open-files>
 </project-private>
