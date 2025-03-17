@@ -16,10 +16,13 @@ public class DBBase {
             String password = "hai31082003";
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             connection = DriverManager.getConnection(url, username, password);
+            
+            
         } catch (ClassNotFoundException | SQLException ex) {
             System.out.println(ex);
         }
 
     }
-
+    
+    
 }

@@ -33,6 +33,10 @@ public class ProductVariant {
 
     public ProductVariant() {
     }
+
+    public ProductVariant(int aInt, String string) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     // Getters and setters
     public int getId() {
